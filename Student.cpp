@@ -16,7 +16,7 @@ void Student::boost_grade()
 
 void Student::display()
 {
-	cout << "Student Record" << endl;
+	cout << "Studentt Record" << endl;
 	cout << "--------------" << endl;
 	cout << "Name: " << name << endl;
 	cout << "Academic Level: " << year << endl;
